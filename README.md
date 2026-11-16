@@ -1,6 +1,8 @@
 # Sales Analysis Dashboard: Nexora Retail Solutions (2020-2026)
 **Excel | Power Query | Power Pivot | DAX**
 
+https://docs.google.com/spreadsheets/d/10BLIhaMWLbU0EEzFjOS9KSkCqQa5henc/edit?usp=sharing&ouid=103163278716960411986&rtpof=true&sd=true 
+
 An interactive Excel dashboard that analyzes six years of retail sales, profit, returns, and target performance for Nexora Retail Solutions. Built with Power Query, Power Pivot (star schema), and DAX.
 
 Dashboard Preview
